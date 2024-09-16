@@ -8,7 +8,7 @@ public class CalculatorApp {
 
         try {
            
-            System.out.print("Enter the first number: ");
+            System.out.print("Enter the 1st number: ");
             double num1 = scanner.nextDouble();
 
            
